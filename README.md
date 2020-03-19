@@ -1,24 +1,23 @@
 # vue-notflix
+###### Clone Netflix
+<br/>
 
-## Project setup
+## Install dependencies
 ```
-yarn install
+$ yarn install
 ```
+<br/>
 
-### Compiles and hot-reloads for development
+## Run project
 ```
 yarn serve
 ```
+<br/>
 
-### Compiles and minifies for production
+### Build project
 ```
 yarn build
 ```
+<br/>
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+OMB
