@@ -16,6 +16,9 @@
         <li>
           <router-link to="/tv">TV Shows</router-link>
         </li>
+        <li>
+          <router-link to="/login">Login</router-link>
+        </li>
       </ul>
     </div>
   </header>

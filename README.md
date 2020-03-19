@@ -1,5 +1,5 @@
 # vue-notflix
-###### Clone Netflix
+#### Clone Netflix
 <br/>
 
 ## Install dependencies

@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Movies from '@/views/Movies.vue'
 import TV from '@/views/TV.vue'
+import Login from '@/views/Login.vue'
 
 Vue.use(VueRouter)
 
@@ -15,6 +16,11 @@ const routes = [
     path: '/tv',
     name: 'TV',
     component: TV
+  },
+  {
+    path: '/login',
+    name: 'Login',
+    component: Login
   }
 ]
 
